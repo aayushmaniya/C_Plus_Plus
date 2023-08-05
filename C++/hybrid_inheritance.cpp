@@ -27,7 +27,6 @@ class pqr: public xyz,public abc{
     {
         cout<<"pqr is called.."<<endl;
     }
-    
 };
 int main()
 {
